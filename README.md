@@ -1,30 +1,81 @@
-# D15 吉他下载中心
+# D15 吉他快速开始
 
-D15 吉他 App、使用说明和后续固件的统一下载入口。
+这是 D15 吉他用户拿到设备后的第一个入口：**先安装 App，再连接吉他，最后开始演奏。**
 
-> 下载中心正在整理中。当前先展示页面结构，安装包和曲谱资源将在确认后上传。
+> 当前页面正在整理。App 的正式下载按钮将在安装包确认后开放。
 
-## App 下载
+## 第一步：安装 D15 吉他 App
 
-| 平台 | 当前版本 | 下载 |
-| --- | --- | --- |
-| Android | 1.1.0 | 安装包准备中 |
-| iPhone / iPad | 1.1.0 | App Store 链接准备中 |
+### Android 手机 / 平板
 
-## 第一次使用
+**当前版本：1.1.0**
 
-1. 安装 D15 吉他 App。
-2. 打开 D15 吉他电源。
-3. 在 App 中通过蓝牙 MIDI 或 USB MIDI 连接吉他。
-4. 进入“控制”或“智能谱”开始使用。
+**下载状态：Android 安装包准备中**
 
-## 使用帮助
+安装流程：
 
-- [快速使用说明](https://xiangaxiang.github.io/guitar-docs/usage-guide.html)
-- [蓝牙与 USB 连接说明](https://xiangaxiang.github.io/guitar-docs/connection-guide.html)
-- [下载使用说明 PDF](https://xiangaxiang.github.io/guitar-docs/usage-guide.pdf)
-- [下载连接说明 PDF](https://xiangaxiang.github.io/guitar-docs/connection-guide.pdf)
-- [联系支持](https://xiangaxiang.github.io/guitar-docs/support.html)
+1. 在本页面下载 D15 吉他 APK 安装包。
+2. 下载完成后，点击 APK 文件。
+3. 如果系统提示“禁止安装未知应用”，请按页面提示允许本次安装。
+4. 安装完成后打开“D15吉他”。
+
+> 请只使用本页面提供的安装包，不要从不明网站下载。
+
+### iPhone / iPad
+
+**当前版本：1.1.0**
+
+**下载状态：App Store 正式链接准备中**
+
+安装流程：
+
+1. 打开苹果应用商店 App Store。
+2. 搜索“D15吉他”。
+3. 下载并打开 App。
+
+## 第二步：连接 D15 吉他
+
+### iPhone / iPad
+
+**推荐使用 USB 有线连接：**
+
+1. 使用支持数据传输的 USB 线连接吉他与 iPhone 或 iPad。
+2. 打开 D15吉他 App。
+3. 页面显示“有线/外设 MIDI 已连接”后即可使用。
+
+USB 适用于吉他硬件 V2.0 及以上版本；iPhone 15 及以上可以直接使用 Type-C 连接。其他情况可以使用蓝牙 MIDI。
+
+**蓝牙连接：**
+
+1. 给吉他接入充电宝或 5V 电源，确认红色指示灯亮起。
+2. 打开 D15吉他 App，点击右上角蓝牙按钮。
+3. 点击“扫描”，选择 `D15Guitar`。
+
+### Android 手机 / 平板
+
+**推荐使用 USB 有线连接：**
+
+1. 使用支持数据传输的 USB Type-C 线连接吉他和安卓设备。
+2. 打开 D15吉他 App。
+3. 页面显示“有线/外设 MIDI 已连接”后即可使用。
+
+USB 和安卓蓝牙连接适用于吉他硬件 V2.0 及以上版本。受不同安卓设备影响，蓝牙可能存在连接困难或演奏延迟，请优先使用 USB。
+
+## 第三步：开始演奏
+
+1. 按一下吉他的 1–8 号和弦键，即可自由弹奏。
+2. 按一下“扫弦”或“分解”键，可以切换演奏方式。
+3. 进入 App 的“智能谱”或“图片谱”，可以跟随曲谱练习。
+
+吉他初始默认设置：全自动模式、标准 4 拍节奏型、75 BPM、C 调和弦组。
+
+## 完整使用说明
+
+- [下载 D15 吉他使用说明 PDF](https://gitee.com/d15cyber/guitar-docs/raw/main/usage-guide.pdf)
+- [下载蓝牙与 USB 连接说明 PDF](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)
+- [联系支持](https://gitee.com/d15cyber/guitar-docs/blob/main/support.html)
+
+安装 App 后，也可以随时在 App 的“帮助”中查看使用说明和连接说明。
 
 ## 曲谱资源
 
@@ -34,10 +85,6 @@ D15 吉他 App、使用说明和后续固件的统一下载入口。
 
 暂无需要用户下载的固件。后续发布固件时，这里将标明适用硬件版本、发布日期和升级说明。
 
-## 下载安全
-
-请只通过本下载中心提供的链接获取 D15 吉他 App 和固件。安装前请核对版本号及文件名。
-
 ---
 
-如遇连接或使用问题，请联系 D15 吉他售后支持。
+如遇问题，请说明吉他硬件版本、手机型号以及使用 USB 还是蓝牙连接。
