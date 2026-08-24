@@ -2,7 +2,7 @@
 
 > 第一次使用只需四步：**安装 App → 连接吉他 → 导入歌曲 → 开始跟弹**
 
-## 立即下载
+## 1. 安装 App
 
 ### iPhone / iPad
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 1. 连接吉他
+## 2. 连接吉他
 
 **首选 USB：** 使用支持数据传输的 USB 线连接吉他和手机。打开 App，显示“有线/外设 MIDI 已连接”后即可使用。
 
@@ -26,7 +26,7 @@
 
 **[查看蓝牙与 USB 连接说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)**
 
-## 2. 导入歌曲
+## 3. 导入歌曲
 
 **推荐从 URL 导入：** 在售后群获取曲谱地址并复制，然后进入“智能谱 → 导入歌曲 → 从 URL 导入 → 粘贴 → 下载并导入”。
 
@@ -34,13 +34,13 @@
 
 <!-- 曲谱下载地址不在公开首页展示，由售后群提供。 -->
 
-## 3. 开始跟弹
+## 4. 开始跟弹
 
 新手建议直接进入“智能谱”。选择歌曲后，看到谱面上的和弦字母，就按吉他上对应的和弦键，再使用扫弦或分解键演奏。
 
 需要辅助时，可以打开主旋律、鼓机和节拍器伴奏。
 
-## 4. 使用资料
+## 使用资料
 
 - **[D15 吉他完整使用说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/usage-guide.pdf)**
 - **[蓝牙与 USB 连接说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)**
