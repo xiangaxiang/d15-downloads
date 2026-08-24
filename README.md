@@ -46,7 +46,9 @@
 
 **1=C · 2=Dm · 3=Em · 4=F · 5=G · 6=Am · 7=Bdim · 8=G7 · 9=扫弦 · 10=分解**
 
-![D15吉他默认C调键位对照图](assets/d15-default-key-layout-compact.jpg)
+<p align="center">
+  <img src="assets/d15-default-key-layout-compact.jpg" width="260" alt="D15吉他默认C调键位对照图">
+</p>
 
 > 图中为默认 C 调基础和弦组。切换 G 组或自定义和弦组后，按键对应和弦会变化。
 
