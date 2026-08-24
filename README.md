@@ -1,12 +1,12 @@
-# D15 吉他快速开始
+# D15 吉他下载与快速使用
 
-**安装 App → 连接吉他 → 导入歌曲 → 开始跟弹**
+> 第一次使用只需四步：**安装 App → 连接吉他 → 导入歌曲 → 开始跟弹**
 
-## 1. 安装 D15吉他 App
+## 立即下载
 
 ### iPhone / iPad
 
-**[在 App Store 安装“D15吉他”](https://apps.apple.com/cn/app/d15%E5%90%89%E4%BB%96/id6799462676)**
+**[前往 App Store 安装“D15吉他”](https://apps.apple.com/cn/app/d15%E5%90%89%E4%BB%96/id6799462676)**
 
 打开链接后，点击“获取”即可安装。
 
@@ -16,15 +16,17 @@
 
 下载后点击 APK 安装；如果系统拦截，请按提示允许本次安装。请只使用本页面提供的安装包。
 
-## 2. 连接 D15 吉他
+---
 
-**首选 USB：** 使用支持数据传输的 USB 线连接吉他和手机，打开 App，显示“有线/外设 MIDI 已连接”后即可使用。
+## 1. 连接吉他
+
+**首选 USB：** 使用支持数据传输的 USB 线连接吉他和手机。打开 App，显示“有线/外设 MIDI 已连接”后即可使用。
 
 **其次蓝牙：** 给吉他接通 5V 电源，打开 App，点击右上角蓝牙按钮，扫描并选择 `D15Guitar`。Android 设备请优先使用 USB。
 
-[查看完整的蓝牙与 USB 连接说明 PDF](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)
+**[查看蓝牙与 USB 连接说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)**
 
-## 3. 导入歌曲
+## 2. 导入歌曲
 
 **推荐从 URL 导入：** 在售后群获取曲谱地址并复制，然后进入“智能谱 → 导入歌曲 → 从 URL 导入 → 粘贴 → 下载并导入”。
 
@@ -32,23 +34,19 @@
 
 <!-- 曲谱下载地址不在公开首页展示，由售后群提供。 -->
 
-## 4. 开始跟弹
+## 3. 开始跟弹
 
-新手建议直接进入“智能谱”。选择歌曲后，看到谱面上的和弦字母，就按吉他上对应的和弦键，再使用扫弦或分解键演奏。需要辅助时，可打开主旋律、鼓机和节拍器伴奏。
+新手建议直接进入“智能谱”。选择歌曲后，看到谱面上的和弦字母，就按吉他上对应的和弦键，再使用扫弦或分解键演奏。
 
-## 更多资料
+需要辅助时，可以打开主旋律、鼓机和节拍器伴奏。
 
-- [D15 吉他完整使用说明 PDF](https://gitee.com/d15cyber/guitar-docs/raw/main/usage-guide.pdf)
-- [蓝牙与 USB 连接说明 PDF](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)
-- [DIY 模型与备用共享文件（百度网盘，提取码：m9vf）](https://pan.baidu.com/s/1bjUIKXNQAlNU6eSiYbjJ8w?pwd=m9vf)
-- [联系支持](https://gitee.com/d15cyber/guitar-docs/blob/main/support.html)
-- [隐私政策](https://gitee.com/d15cyber/guitar-docs/blob/main/privacy-policy.html)
+## 4. 使用资料
 
-## 固件升级
+- **[D15 吉他完整使用说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/usage-guide.pdf)**
+- **[蓝牙与 USB 连接说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)**
+- **[DIY 模型、固件与备用共享文件（百度网盘）](https://pan.baidu.com/s/1bjUIKXNQAlNU6eSiYbjJ8w?pwd=m9vf)**
 
-固件必须与吉他硬件版本匹配，目前不提供通用固件直接下载。需要升级时，请先联系售后确认硬件版本。
-
-<!-- 待具备硬件型号识别与安全升级流程后，再增加固件下载入口。 -->
+> 固件必须与吉他硬件版本匹配，升级前请先联系售后确认。
 
 ## 售后支持
 
