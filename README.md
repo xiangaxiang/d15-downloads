@@ -12,7 +12,7 @@
 
 ### Android 手机 / 平板
 
-**[下载最新版 D15吉他 Android APK（1.1.0）](https://gitee.com/d15cyber/d15-downloads/releases/download/android-v1.1.0/D15Guitar-Android-v1.1.0.apk)**
+**[下载最新版 D15吉他 Android APK](https://gitee.com/d15cyber/d15-downloads/releases/download/android-latest/D15Guitar-Android-latest.apk)**
 
 下载后点击 APK 安装；如果系统拦截，请按提示允许本次安装。请只使用本页面提供的安装包。
 
