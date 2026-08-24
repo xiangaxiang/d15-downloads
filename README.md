@@ -2,24 +2,6 @@
 
 > 第一次使用只需四步：**安装 App → 连接吉他 → 导入歌曲 → 开始跟弹**
 
-## 当前 Android 正式版
-
-| 项目 | 当前值 |
-| --- | --- |
-| 版本 | `1.1.0 (Build 3)` |
-| 发布日期 | `2026-08-24` |
-| APK | [`downloads/android/D15Guitar-Android-latest.apk`](downloads/android/D15Guitar-Android-latest.apk) |
-| SHA-256 | `2427a3480a16957c9fc70b1bb289bcd155fb7db3f0609592f2504890ff186a2b` |
-| Android 源码提交 | `74ebccd998dfdb6beac898279a3d7c21492a1204` |
-
-- **[直接下载当前 Android APK](https://gitee.com/d15cyber/d15-downloads/releases/download/android-latest/D15Guitar-Android-latest.apk)**
-- **[查看本次更新内容和历史记录](CHANGELOG.md)**
-- **[查看 Android 发布规则与完整校验信息](downloads/android/README.md)**
-
-仓库目录中始终只保留一份当前正式 APK；发布新版本时替换同一路径，并同步更新上述版本信息和 `CHANGELOG.md`。Git 历史仍会保留以前提交过的二进制对象。
-
-> 公开范围说明：这是公开的下载中心仓库，不是 Android App 源码仓库。Gitee 发行版页面自动显示的 “Source code” 压缩包只包含本下载中心仓库中的公开文件。
-
 ## 1. 安装 App
 
 ### iPhone / iPad
