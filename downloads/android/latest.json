@@ -1,11 +1,11 @@
 {
   "versionName": "1.1.0",
-  "versionCode": 3,
-  "releasedAt": "2026-08-24",
+  "versionCode": 4,
+  "releasedAt": "2026-08-28",
   "packageName": "com.d15cyber.guitar",
   "apk": "D15Guitar-Android-latest.apk",
   "sizeBytes": 21108381,
-  "sha256": "2427a3480a16957c9fc70b1bb289bcd155fb7db3f0609592f2504890ff186a2b",
-  "sourceCommit": "74ebccd998dfdb6beac898279a3d7c21492a1204",
+  "sha256": "abb4afcbc434e309e6e6ade0e98dcb3296a71d24b840e34ad18fdb5df2f71bd4",
+  "sourceCommit": "79e54e1f6032bcde7db25b65ab295e98da3688f9",
   "downloadUrl": "https://gitee.com/d15cyber/d15-downloads/releases/download/android-latest/D15Guitar-Android-latest.apk"
 }

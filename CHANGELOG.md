@@ -1,12 +1,38 @@
 # D15 Guitar Android 发布记录
 
-本文件记录所有正式对外发布的 Android 版本。仓库文件目录只保留当前最新版 APK，历史版本信息保留在本文件和 Git 提交历史中。
+本文件记录所有正式对外发布的 Android 版本。APK 保存在 Gitee `android-latest` 发行版，不提交进普通 Git；
+Git 永久保留每版的版本号、发布时间、源码提交、SHA-256、更新内容和验证结果。
+
+## 1.1.0 (Build 4) — 2026-08-28
+
+### 安装包
+
+- Gitee Release 附件：`D15Guitar-Android-latest.apk`
+- 包名：`com.d15cyber.guitar`
+- Android 源码提交：`79e54e1f6032bcde7db25b65ab295e98da3688f9`
+- SHA-256：`abb4afcbc434e309e6e6ade0e98dcb3296a71d24b840e34ad18fdb5df2f71bd4`
+- 大小：`21,108,381 bytes`
+
+### 本版更新
+
+- 修复 Android 15 / 小米 HyperOS 上蓝牙连接弹层可能顶入状态栏或显示挖孔，导致顶部控件无法点击的问题。
+- 去掉使用 `Configuration.screenHeightDp` 计算弹层高度的逻辑，改用 `WindowInsets.safeDrawing` 约束安全区域。
+- 蓝牙扫描、连接、BLE MIDI、USB MIDI、歌曲、伴奏和音频逻辑没有修改。
+- 弹层保留关闭键、系统返回键和点击遮罩关闭；本版自定义安全区弹层不提供下滑关闭。
+
+### 构建与验证
+
+- 80 个正式单元测试通过，0 failure、0 error。
+- Android Lint：0 error；38 warning、4 information。
+- 四种 ABI、正式 APK/AAB 和签名校验通过。
+- 已覆盖安装到 Redmi 测试机，用户确认蓝牙页标题、关闭、扫描、设备选择、滚动及安全区正常。
+- 发生原问题的小米 15 尚待客户使用 Build 4 复测。
 
 ## 1.1.0 (Build 3) — 2026-08-24
 
 ### 安装包
 
-- 文件：`downloads/android/D15Guitar-Android-latest.apk`
+- Gitee Release 附件：`D15Guitar-Android-latest.apk`
 - 包名：`com.d15cyber.guitar`
 - Android 源码提交：`74ebccd998dfdb6beac898279a3d7c21492a1204`
 - SHA-256：`2427a3480a16957c9fc70b1bb289bcd155fb7db3f0609592f2504890ff186a2b`
