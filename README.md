@@ -1,73 +1,30 @@
-# D15 吉他下载与快速使用
+# D15吉他下载与使用资料
 
-> 第一次使用只需四步：**安装 App → 连接吉他 → 导入歌曲 → 开始跟弹**
+安装 App → 连接吉他 → 按提示导入歌曲 → 开始跟弹。
 
-## 1. 安装 App
+## 安装 App
 
-### iPhone / iPad
+- **[iPhone / iPad：App Store](https://apps.apple.com/cn/app/d15%E5%90%89%E4%BB%96/id6799462676)**
+- **[Android：下载最新版 APK](https://download.d15cyber.com/downloads/android/D15Guitar-Android-latest.apk)**
 
-**[前往 App Store 安装“D15吉他”](https://apps.apple.com/cn/app/d15%E5%90%89%E4%BB%96/id6799462676)**
+首次打开允许蓝牙和联网；Android 下载后按系统提示安装。
 
-打开链接后，点击“获取”即可安装。
+## 使用说明
 
-### Android 手机 / 平板
+**[统一帮助入口：d15cyber.com/help/](https://d15cyber.com/help/)**
 
-**[下载最新版 D15吉他 Android APK](https://gitee.com/d15cyber/d15-downloads/releases/download/android-latest/D15Guitar-Android-latest.apk)**
+- [连接说明](https://d15cyber.com/help/connection-guide.html)：USB / 蓝牙、首次导歌、固件更新、第三方 MIDI。
+- [使用说明](https://d15cyber.com/help/usage-guide.html)：智能谱、自由弹奏、声音灯光、自定义和弦、快捷键等高级玩法。
+- 一页打印版：[有灯光版](https://d15cyber.com/help/print/quick-start-with-lights.pdf) / [无灯光版](https://d15cyber.com/help/print/quick-start-without-lights.pdf)。
+- [Legacy 旧版说明](https://d15cyber.com/help/legacy/)：仍使用旧 App、4.5 等旧固件时查看。
 
-下载后点击 APK 安装；如果系统拦截，请按提示允许本次安装。请只使用本页面提供的安装包。
+当前说明适用于 App 2.0 与固件 5.x，按有灯光版 / 无灯光版区分操作。最早 HW1 仅支持蓝牙 MIDI，详见连接说明。
 
----
+## 其他资料与支持
 
-## 2. 连接吉他
+- [DIY 模型、固件与备用共享文件（百度网盘）](https://pan.baidu.com/s/1bjUIKXNQAlNU6eSiYbjJ8w?pwd=m9vf)
+- 售后微信：`D15Cyber`
 
-**首选 USB：请务必连接吉他左侧 USB 端口。** 使用支持数据传输的 USB 线连接吉他和手机。打开 App，显示“有线/外设 MIDI 已连接”后即可使用。
+固件须与硬件型号匹配，不确定时请先联系售后。反馈问题时，请说明吉他型号、手机型号及使用 USB 还是蓝牙。
 
-**其次蓝牙：** 给吉他接通 5V 电源，打开 App，点击右上角蓝牙按钮，扫描并选择 `D15Guitar`。Android 设备请优先使用 USB。
-
-**[查看蓝牙与 USB 连接说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)**
-
-## 3. 导入歌曲
-
-**推荐从 URL 导入：** 在售后群获取曲谱地址并复制，然后进入“智能谱 → 导入歌曲 → 从 URL 导入 → 粘贴 → 下载并导入”。
-
-**备用 ZIP 导入：** 先将 ZIP 曲谱包保存到手机本地，再进入“导入歌曲 → 导入文件”，选择 ZIP 文件。
-
-<!-- 曲谱下载地址不在公开首页展示，由售后群提供。 -->
-
-## 4. 开始跟弹
-
-新手建议直接进入“智能谱”。选择歌曲后，看到谱面上的和弦字母，就按吉他上对应的和弦键，再使用扫弦或分解键演奏。
-
-需要辅助时，可以打开主旋律、鼓机和节拍器伴奏。
-
-### 按键对照
-
-部分吉他的按键没有印字母，请按下面的默认 C 调键位图识别：
-
-**1=C · 2=Dm · 3=Em · 4=F · 5=G · 6=Am · 7=Bdim · 8=G7 · 9=扫弦 · 10=分解**
-
-<p align="center">
-  <img src="assets/d15-default-key-layout-compact.jpg" width="260" alt="D15吉他默认C调键位对照图">
-</p>
-
-> 图中为默认 C 调基础和弦组。切换 G 组或自定义和弦组后，按键对应和弦会变化。
-
-## 使用资料
-
-- **[D15 吉他完整使用说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/usage-guide.pdf)**
-- **[蓝牙与 USB 连接说明（PDF）](https://gitee.com/d15cyber/guitar-docs/raw/main/connection-guide.pdf)**
-- **[DIY 模型、固件与备用共享文件（百度网盘）](https://pan.baidu.com/s/1bjUIKXNQAlNU6eSiYbjJ8w?pwd=m9vf)**
-
-> 固件必须与吉他硬件版本匹配，升级前请先联系售后确认。
-
-## 视频教程
-
-更多安装、连接和功能教程，请关注群主视频号。
-
-<!-- 待提供视频号链接或二维码后，在这里补充。 -->
-
-## 售后支持
-
-微信：`D15Cyber`
-
-如遇问题，请同时说明吉他硬件版本、手机型号，以及当前使用 USB 还是蓝牙连接。
+历史下载资源和原有链接继续保留；原下载页内容已收在本仓库 `legacy/` 中。
