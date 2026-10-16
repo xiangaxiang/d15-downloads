@@ -11,14 +11,14 @@
 
 ## 使用说明
 
-**[统一帮助入口：d15cyber.com/help/](https://d15cyber.com/help/)**
+**[D15吉他使用指南](https://d15cyber.com/help/)**
 
-- [连接说明](https://d15cyber.com/help/connection-guide.html)：USB / 蓝牙、首次导歌、固件更新、第三方 MIDI。
-- [使用说明](https://d15cyber.com/help/usage-guide.html)：智能谱、自由弹奏、声音灯光、自定义和弦、快捷键等高级玩法。
+从连接、导歌到跟弹，按步骤开始；自由弹奏、声音灯光、快捷键等更多玩法在同一页查看。
+
 - 一页打印版：[有灯光版](https://d15cyber.com/help/print/quick-start-with-lights.pdf) / [无灯光版](https://d15cyber.com/help/print/quick-start-without-lights.pdf)。
 - [Legacy 旧版说明](https://d15cyber.com/help/legacy/)：仍使用旧 App、4.5 等旧固件时查看。
 
-当前说明适用于 App 2.0 与固件 5.x，按有灯光版 / 无灯光版区分操作。最早 HW1 仅支持蓝牙 MIDI，详见连接说明。
+当前说明适用于 App 2.0 与固件 5.x，按有灯光版 / 无灯光版区分操作。最早 HW1 仅支持蓝牙 MIDI，详见使用指南。
 
 ## 其他资料与支持
 
